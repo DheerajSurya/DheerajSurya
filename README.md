@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack Java Applications.
 - 📫 How to reach me: dheerajtati@gmail.com .
 - 💬 Ask me about anything in my Repositories, I am happy to help;
-- 📝 https://drive.google.com/file/d/1J6cqctfHx_FCk6FLtYvcsuNyovOdSg23/view?usp=sharing
+- 📝 Resume (https://drive.google.com/file/d/1J6cqctfHx_FCk6FLtYvcsuNyovOdSg23/view?usp=sharing)
 
 
 <!--
