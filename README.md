@@ -1,5 +1,7 @@
 ### Hi there , this is Dheeraj Surya.
-Upcoming Full-time Fullstack Developer
+- 🌱 I’m currently learning in upGrad to become a Full Stack Java Developer.
+- 📫 How to reach me: +91 9505440518 , dheerajtati@gmail.com
+
 
 <!--
 **DheerajSurya/DheerajSurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
