@@ -1,5 +1,5 @@
 ### Hi there , this is Dheeraj Surya ,a passionate Full Stack Java Developer.
-- 🔭 I've done coding in Python.
+- 🔭 I've learnt Python and Pega Applications .
 - 🌱 I’m currently learning Full Stack Java Applications.
 - 📫 How to reach me: dheerajtati@gmail.com .
 - 💬 Ask me about anything in my Repositories, I am happy to explain .
