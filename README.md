@@ -1,7 +1,9 @@
-### Hi there , this is Dheeraj Surya.
-- 🔭 I've done coding in Python
-- 🌱 I’m currently learning in upGrad to become a Full Stack Java Developer.
-- 📫 How to reach me: +91 9505440518 , dheerajtati@gmail.com
+### Hi there , this is Dheeraj Surya ,a passionate Full Stack Java Developer.
+- 🔭 I've done coding in Python.
+- 🌱 I’m currently learning Full Stack Java Applications.
+- 📫 How to reach me: dheerajtati@gmail.com .
+- 💬 Ask me about anything in my Repositories, I am happy to help;
+- 📝 https://drive.google.com/file/d/1J6cqctfHx_FCk6FLtYvcsuNyovOdSg23/view?usp=sharing
 
 
 <!--
