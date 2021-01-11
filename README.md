@@ -24,7 +24,7 @@
 
 
 - 🔭 I’m currently learning : Full Stack Java Applications.
-- 🌱 I’m currently pursuing : Post Graduation Certification in Full Stack Development from UpGrad and                                FrontEnd applications from John Hopkins University on Coursera.
+- 🌱 I’m currently pursuing : Post Graduation Certification in Full Stack Development from UpGrad and FrontEnd applications from John Hopkins University on Coursera.
 - 👯 I’m looking to collaborate with companies on Java and Full stack Projects.
 - 📫 How to reach me: dheerajtati@gmail.com . 
 - 😄 Hobbies: Playing badminton, Cricket, Carroms, Listening Music.
@@ -33,10 +33,11 @@
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://www.pega.com/sites/default/files/styles/640/public/media/images/2018-09/pega-placeholder-logo.png?itok=yXQeSokQ"></code>
 
 
 
