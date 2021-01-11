@@ -24,7 +24,7 @@
 
 
 - 🔭 I’m currently learning : Full Stack Java Applications.
-- 🌱 I’m currently pursuing : Post Graduation Certification in Full Stack Development from UpGrad and FrontEnd applications from John Hopkins University on Coursera.
+- 🌱 I’m currently pursuing : Post Graduation Certification in Full Stack Development from UpGrad and                                FrontEnd applications from John Hopkins University on Coursera.
 - 👯 I’m looking to collaborate with companies on Java and Full stack Projects.
 - 📫 How to reach me: dheerajtati@gmail.com . 
 - 😄 Hobbies: Playing badminton, Cricket, Carroms, Listening Music.
@@ -41,7 +41,7 @@
 
 
 <a href="https://github.com/DheerajSurya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DheerajSurya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajSurya&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/DheerajSurya">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DheerajSurya&show_icons=true&theme=dark&line_height=27" alt="Github stats"/>
