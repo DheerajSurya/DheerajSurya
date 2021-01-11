@@ -43,6 +43,10 @@
 <a href="https://github.com/DheerajSurya">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DheerajSurya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </a>
+<a href="https://github.com/DheerajSurya">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DheerajSurya&show_icons=true&theme=dark&line_height=27" alt="Github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DheerajSurya&show_icons=true&theme=dark&line_height=27" alt="Stats"/>
+</a>
 
 
 <div align="center">
