@@ -1,6 +1,6 @@
 ## Hey there, I'm Dheeraj Surya 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DheerajSurya&label=Views&color=blue&style=plastic" alt="Demoupgrad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DheerajSurya&label=Views&color=blue&style=plastic" alt="DheerajSurya" /> </p>
 
 <a href="https://www.linkedin.com/in/dheerajsuryathati/">
   <img align="left" alt="Dheeraj Surya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
