@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-[![Linkedin: dheerajsuryathati](https://img.shields.io/badge/-dheerajsuryathati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dheerajsuryathati-d)](https://www.linkedin.com/in/dheerajsuryathati-d-16492b116//)
+[![Linkedin: dheerajsuryathati](https://img.shields.io/badge/-dheerajsuryathati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dheerajsuryathati/)](https://www.linkedin.com/in/dheerajsuryathati//)
 [![GitHub DheerajSurya](https://img.shields.io/github/followers/DheerajSurya?label=follow&style=social)](https://github.com/DheerajSurya)
 
 
