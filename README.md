@@ -22,6 +22,9 @@
 <br/>
 <br/>
 
+[![Linkedin: dheerajsuryathati](https://img.shields.io/badge/-dheerajsuryathati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dheerajsuryathati-d)](https://www.linkedin.com/in/dheerajsuryathati-d-16492b116//)
+[![GitHub DheerajSurya](https://img.shields.io/github/followers/DheerajSurya?label=follow&style=social)](https://github.com/DheerajSurya)
+
 
 - 🔭 I’m currently learning : Full Stack Java Applications.
 - 🌱 I’m currently pursuing : Post Graduation Certification in Full Stack Development from UpGrad and FrontEnd applications from John Hopkins University on Coursera.
